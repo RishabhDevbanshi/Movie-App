@@ -1,6 +1,3 @@
-// https://thirsty-sammet-5a9a2b.netlify.app/
-
-
 import styled from "styled-components";
 import axios from "axios";
 import Header from "./components/Header";
